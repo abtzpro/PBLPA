@@ -68,7 +68,7 @@ You might be thinking, “What about machine learning?” Machine learning thriv
 
 In conclusion, despite the best efforts of data scientists and statisticians, predicting the winning PowerBall numbers is as likely as being struck by lightning while riding a unicorn under a double rainbow. But that doesn’t make the analysis any less interesting. It reminds us of the incredible unpredictability of life and the thrill of chance.
 
-But hey, while we all love to imagine what we’d do with a huge lottery win, let’s keep our feet on the ground and play responsibly. Remember, the house always wins in the end! Up next, let’s have a chat about how we can make our PBLPA script even better.
+But hey, while we all love to imagine what we’d do with a huge lottery win, let’s keep our feet on the ground and play responsibly. Remember, the house always wins in the end! Up next, let’s have a chat about sources of stuff we used in our PBLPA script. 
 
 ## 8. Hats off - Sources Cited <a name="sources-cited"></a>
 
